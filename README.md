@@ -8,10 +8,10 @@ This project is designed to extract and process data for generating Health Level
 The SQL script pulls data from the following tables:
 
 Order Table: Contains information on orders placed.<br/>
-Results Table: Holds the results of the tests performed.
-Assay Table: Provides details on the assays used.
-Patient Table: Includes patient demographics and identifiers.
-Physician Table: Contains information on the ordering physicians.
-Practice Table: Lists the practices associated with the orders.
+Results Table: Holds the results of the tests performed.<br/>
+Assay Table: Provides details on the assays used.<br/>
+Patient Table: Includes patient demographics and identifiers.<br/>
+Physician Table: Contains information on the ordering physicians.<br/>
+Practice Table: Lists the practices associated with the orders.<br/>
 
 
