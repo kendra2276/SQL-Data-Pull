@@ -14,4 +14,5 @@ Patient Table: Includes patient demographics and identifiers.<br/>
 Physician Table: Contains information on the ordering physicians.<br/>
 Practice Table: Lists the practices associated with the orders.<br/>
 
-
+## Automation
+After rigours end to end testing with Department of Health, the script was then automated using a batch file and Task Scheduler with a run schedule of Monday through Friday. 
