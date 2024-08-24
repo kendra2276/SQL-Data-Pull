@@ -7,7 +7,7 @@ This project is designed to extract and process data for generating Health Level
 ##  Data Sources
 The SQL script pulls data from the following tables:
 
-Order Table: Contains information on orders placed.
+Order Table: Contains information on orders placed.<br/>
 Results Table: Holds the results of the tests performed.
 Assay Table: Provides details on the assays used.
 Patient Table: Includes patient demographics and identifiers.
