@@ -1,8 +1,8 @@
 # SQL-Data-Pull
-This repository contains the SQL script used to create a program that exchanges patient test results with the Department of Health. The process involves pulling data from various tables in the database, cleaning and processing this data in Python, and then generating a HL7 file.  Lastly, to err on the side of caution, the Python script will be omitted along with the acutal names of the tables in the database.
+This repository contains the SQL script used to create a program that exchanges patient test results with the Department of Health. The process involves pulling data from various tables in the database, cleaning and processing this data in Python, and then generating a HL7 file. This overview includes only the SQL script for simplicity.
 
 ## Project Overview
-This project is designed to extract and process data for generating Health Level 7 (HL7) messages, enabling seamless interoperability between the lab and the Department of Health. The HL7 program developed actively ensures compliance with health regulations, facilitating and enhancing public health monitoring and reporting. 
+This project is designed to extract and process data for generating Health Level 7 (HL7) messages, enabling seamless interoperability between the lab and the Department of Health. The HL7 format actively ensures compliance with health regulations, facilitating and enhancing public health monitoring and reporting. Additionally, HL7 standardizes the exchange of healthcare information, ensuring accurate and efficient communication across different systems and organizations.
 
 ##  Data Sources
 The SQL script pulls data from the following tables:
